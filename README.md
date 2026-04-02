@@ -7,7 +7,6 @@ I'm a student learning coding and web design. Mostly C++, Java, and C# for now.
 ## Contact
 
 - **Email:** [fixiu@tuta.io](mailto:fixiu@tuta.io)
-- **Discord:** @fixiu
 
 Feel free to reach out if you have any questions!
 
